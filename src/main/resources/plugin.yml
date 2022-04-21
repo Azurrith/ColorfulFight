@@ -1,0 +1,4 @@
+name: ColorfulFight
+version: '${project.version}'
+main: io.github.arcticpolaris.colorfulfight.ColorfulFight
+api-version: 1.15
